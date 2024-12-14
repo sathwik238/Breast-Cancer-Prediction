@@ -50,4 +50,11 @@ Breast cancer is one of the most common cancers among women, and early detection
 
 ---
 
+```yaml
+Breast-Cancer-Prediction/
+│
+├── Breast_Cancer.ipynb   # Jupyter Notebook with full implementation
+├── README.md             # Project documentation
+└── images/               # Folder containing visualizations (to be added)
+
 
