@@ -8,11 +8,6 @@ This project is focused on detecting breast cancer using machine learning techni
 1. [Overview](#overview)
 2. [Dataset](#dataset)
 3. [Technologies Used](#technologies-used)
-4. [Project Structure](#project-structure)
-5. [Installation and Setup](#installation-and-setup)
-6. [Key Findings](#key-findings)
-7. [Future Work](#future-work)
-8. [References](#references)
 
 ---
 
@@ -55,6 +50,4 @@ Breast-Cancer-Prediction/
 │
 ├── Breast_Cancer.ipynb   # Jupyter Notebook with full implementation
 ├── README.md             # Project documentation
-└── images/               # Folder containing visualizations (to be added)
-
 
